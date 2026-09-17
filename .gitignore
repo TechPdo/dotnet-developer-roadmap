@@ -1,0 +1,40 @@
+# This .gitignore is provided as a reference template for the TaskFlow project
+# you'll build while working through this course. Copy it into that repo.
+
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.pdb
+
+## Node / Frontend
+node_modules/
+dist/
+build/
+.angular/
+coverage/
+
+## Environment & Secrets
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+## IDE
+.vscode/
+.idea/
+*.swp
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+logs/
