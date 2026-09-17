@@ -50,18 +50,6 @@ Each level's final file includes a **capstone project** to consolidate the skill
 
 ---
 
-## ✅ How to Use With GitHub
-
-1. Unzip this folder and push it as a new repository named **`dotnet-developer-roadmap`**.
-2. Add a short description to the repo's "About" section, e.g.:
-   > A complete, self-paced .NET developer roadmap — from C# fundamentals to ASP.NET Core, EF Core, CQRS, microservices, security, and agentic AI. Beginner → Advanced.
-3. Add topics/tags for discoverability: `dotnet` `aspnet-core` `csharp` `entity-framework-core` `roadmap` `learning-resources` `cqrs` `mediatr` `web-api` `microservices`
-4. Turn each `##` heading into a GitHub Issue or Project board card to track your progress.
-5. Use the checkboxes (`- [ ]`) inside each file as a personal progress tracker — GitHub renders them as interactive checklists.
-6. Fork it, adapt it, or use it to plan a training curriculum for a team.
-
----
-
 ## 📌 Prerequisites
 
 - Basic programming knowledge (any language)
